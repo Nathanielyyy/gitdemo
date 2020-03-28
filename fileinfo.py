@@ -1,4 +1,4 @@
-# script name :fileinfo.py
+# Sript name :fileinfo.py
 # Author : nathaniel cheng
 # created: 2019.1
 # Last modified :
